@@ -143,6 +143,12 @@ slides_data = [
             На основе анализа масштабируем критерии для модели.
             """
         }
+    },
+        {
+        "nav_title": "6. Схема модели ",
+        "header": "Схема работы модели ⚙️",
+        "body": "",
+        "image": "Screenshot_1-rkwz3ebcmtggtkepxrfbk74gnw.jpeg" 
     }
 ]
 
